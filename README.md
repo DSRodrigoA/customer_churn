@@ -1,5 +1,6 @@
 # Customer Churn - Modelo de Previsão de Perda de Clientes
 
+![Churn](/churn.jpg)
 
 O índice 'churn', é o índice que mede a saída de clientes ou materiais mediante à um período. O churn, conhecido também como 'índice de atrito', diz respeito à saída de clientes de uma empresa, e como consequência, perda de receita.
 
