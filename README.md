@@ -23,17 +23,17 @@ Trata-se de uma empresa bancária e o objetivo é prever a taxa de churn ao long
 
 Como documentação desse dataset, podemos descrever as seguintes features:
 
-RowNumber: Corresponde ao sumário do dataset.
-CustomerId: Chave única de cada cliente.
-Surname: O sobrenome do cliente.
-CreditScore: pode ter efeito no customer churn, pois um cliente com um alto score bancário é menos provável de deixar a empresa.
-Geography: A localização de um cliente pode afetar a decisão de deixar a empresa.
-Gender: Gênero. É interessante explorar se o gênero tem alguma influência nas decisões de deixar a empresa.
-Age: Idade. É certamente relevante, pois quanto mais velho for, mais propensos estão em deixar a empresa.
-Tenure: Se refere ao tempo em anos que um cliente permanece na empresa. Normalmente, clientes mais velho são mais leais e menos propensos em deixar a empresa.
-Balance: Balanço. Também um bom indicador de churn, clientes com maior balanço em suas contas são menos propensos em deixar a empresa em relação àqueles com menor balanço.
-NumOfProducts: Quantidade de produtos aderidos por um cliente na empresa.
-HasCrCard: Descreve se um cliente tem ou não cartão de crédito. Esta feature é interessante, pois clientes que possuem cartão são menos propensas em deixar o banco.
-IsActiveMember: Clientes ativos são menos propensos em deixar a empresa.
-EstimatedSalary: Como no balanço, clientes com menores salários são mais propensas em deixar a empresa comparada com aqueles de maior salário.
-Exited: Churn. Se o cliente deixou ou não a empresa.
+RowNumber: Corresponde ao sumário do dataset.   
+CustomerId: Chave única de cada cliente.   
+Surname: O sobrenome do cliente.   
+CreditScore: pode ter efeito no customer churn, pois um cliente com um alto score bancário é menos provável de deixar a empresa.   
+Geography: A localização de um cliente pode afetar a decisão de deixar a empresa.   
+Gender: Gênero. É interessante explorar se o gênero tem alguma influência nas decisões de deixar a empresa.   
+Age: Idade. É certamente relevante, pois quanto mais velho for, mais propensos estão em deixar a empresa.   
+Tenure: Se refere ao tempo em anos que um cliente permanece na empresa. Normalmente, clientes mais velho são mais leais e menos propensos em deixar a empresa.   
+Balance: Balanço. Também um bom indicador de churn, clientes com maior balanço em suas contas são menos propensos em deixar a empresa em relação àqueles com menor balanço.   
+NumOfProducts: Quantidade de produtos aderidos por um cliente na empresa.   
+HasCrCard: Descreve se um cliente tem ou não cartão de crédito. Esta feature é interessante, pois clientes que possuem cartão são menos propensas em deixar o banco.   
+IsActiveMember: Clientes ativos são menos propensos em deixar a empresa.   
+EstimatedSalary: Como no balanço, clientes com menores salários são mais propensas em deixar a empresa comparada com aqueles de maior salário.   
+Exited: Churn. Se o cliente deixou ou não a empresa.   
